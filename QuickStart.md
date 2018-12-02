@@ -17,7 +17,7 @@ Select an audio driver and device by clicking on Audio's digital display.
 Continue adding more modules, such as VCO-1 and Mixer from the Fundamental plugin.
 Connect a cable from the SIN output of the VCO-1 to the input of the Mixer by clicking and dragging from one of the ports.
 
-Connect another cable from the Mixer output to the first channel of Audio's "output" section, and add another cable to the second channel.
+Connect another cable from the Mixer output to the first channel of Audio's "input" section, and add another cable to the second channel.
 You can stack multiple cables on output ports by dragging from an input to an output, or by Ctrl-clicking (Cmd-clicking on MacOS) from an output to an input.
 
 ![First patch](images/firstpatch.png)
